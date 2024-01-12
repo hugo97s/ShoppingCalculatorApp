@@ -11,6 +11,7 @@ Shopping Calculator is a simple calculator app developed in SwiftUI.
 
 ## Screenshots
 <img width="375" alt="image" src="https://github.com/hugo97s/ShoppingCalculatorApp/assets/29385879/1bf1968d-bc2c-4c24-9a27-968e1f053e73">
+
 ## Getting Started
 
 ### Prerequisites
